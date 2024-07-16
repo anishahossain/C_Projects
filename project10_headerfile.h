@@ -1,4 +1,4 @@
-// Anisha Hossain Megha (U43189731)
+
 // header file for project 10 
 
 #ifndef VOLUNTEER_H //protecting header file using an #ifndef-#endif pair
