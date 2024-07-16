@@ -1,5 +1,4 @@
-// Anisha Hossain Megha (U43189731)
-// Task - project9_volunteer.c modified so so the program is split into two source files and one header file.
+
 // program - Prompts the user to enter an operation code, then calls a function to perform the requested action of 
 // adding volunteer data at last, printing all the volunteer data or searching for volunteers in a grade level or deleting a volunteer from the list
 
